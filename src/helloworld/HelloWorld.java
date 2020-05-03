@@ -9,5 +9,9 @@ public class HelloWorld {
 
         // bugun burayi degsitirdim
 
+
+        //mayisin ilk haftasi degistirdim
+        //mayisin ikini haftasi ikici degistirdigim yer burasi
+
     }
 }
